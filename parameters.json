@@ -1,0 +1,2373 @@
+{
+    "sides": {
+        "teams": {
+            "names": [
+                "williams",
+                "aston martin",
+                "mclaren",
+                "alpine",
+                "mercedes",
+                "red bull",
+                "alpha tauri",
+                "alfa romeo",
+                "hass",
+                "ferrari"
+            ],
+            "roles":["reserve", "first", "second"]
+        },
+        "drivers": {
+            "names": [
+                "Max Verstappen",
+                "Sergio Perez",
+                "George Russel",
+                "Lewis Hamilton",
+                "Carlos Sainz",
+                "Charles Leclerc",
+                "Lando Norris",
+                "Daniel Ricciardo",
+                "Fernando Alonso",
+                "Esteban Ocon",
+                "Pierre Gasly",
+                "Yuki Tsunoda",
+                "Kevin Magnussen",
+                "Alex Albon",
+                "Nicholas Latifi",
+                "Sebastian Vettel",
+                "Lance Stroll",
+                "Valteri Bottas",
+                "Zhou Guanyu",
+                "Stoffel Vandoorne",
+                "Nyck de Vries",
+                "Sébastien Buemi",
+                "Liam Lawson",
+                "Mick Schumacher",
+                "Antonio Giovinazzi",
+                "Paul Di Resta",
+                "Oscar Piastri",
+                "Nico Hulkenberg",
+                "Jack Aitken",
+                "Robert Kubica",
+                "Pietro Fittipaldi"
+            ]
+        
+        }
+    },
+    "preferences": {
+        "drivers": {
+            "Yuki Tsunoda": [
+                {
+                    "driver_priority": "reserve",
+                    "team": "aston martin"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "alpha tauri"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "mclaren"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "alfa romeo"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "red bull"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "ferrari"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "hass"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "williams"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "mercedes"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "alpine"
+                }
+            ],
+            "Liam Lawson": [
+                {
+                    "driver_priority": "reserve",
+                    "team": "alpine"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "red bull"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "hass"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "aston martin"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "mclaren"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "mercedes"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "alfa romeo"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "ferrari"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "alpha tauri"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "williams"
+                }
+            ],
+            "Fernando Alonso": [
+                {
+                    "driver_priority": "second",
+                    "team": "alpine"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "aston martin"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "red bull"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "mclaren"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "alpha tauri"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "mercedes"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "hass"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "williams"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "alfa romeo"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "ferrari"
+                }
+            ],
+            "Charles Leclerc": [
+                {
+                    "driver_priority": "reserve",
+                    "team": "alpine"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "alfa romeo"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "ferrari"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "mclaren"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "mercedes"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "alpha tauri"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "aston martin"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "williams"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "red bull"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "hass"
+                }
+            ],
+            "Jack Aitken": [
+                {
+                    "driver_priority": "reserve",
+                    "team": "alfa romeo"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "ferrari"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "aston martin"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "alpine"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "alpha tauri"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "williams"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "mercedes"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "mclaren"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "red bull"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "hass"
+                }
+            ],
+            "Zhou Guanyu": [
+                {
+                    "driver_priority": "reserve",
+                    "team": "williams"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "aston martin"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "alfa romeo"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "ferrari"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "alpine"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "red bull"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "mclaren"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "mercedes"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "alpha tauri"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "hass"
+                }
+            ],
+            "Robert Kubica": [
+                {
+                    "driver_priority": "second",
+                    "team": "alpha tauri"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "mercedes"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "williams"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "alpine"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "aston martin"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "red bull"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "hass"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "alfa romeo"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "ferrari"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "mclaren"
+                }
+            ],
+            "S\u00e9bastien Buemi": [
+                {
+                    "driver_priority": "reserve",
+                    "team": "mercedes"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "ferrari"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "alpine"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "alfa romeo"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "red bull"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "hass"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "alpha tauri"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "mclaren"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "aston martin"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "williams"
+                }
+            ],
+            "Sebastian Vettel": [
+                {
+                    "driver_priority": "reserve",
+                    "team": "red bull"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "mclaren"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "alpha tauri"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "hass"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "alpine"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "ferrari"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "williams"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "aston martin"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "mercedes"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "alfa romeo"
+                }
+            ],
+            "Sergio Perez": [
+                {
+                    "driver_priority": "second",
+                    "team": "red bull"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "alfa romeo"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "mercedes"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "ferrari"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "hass"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "aston martin"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "mclaren"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "alpha tauri"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "alpine"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "williams"
+                }
+            ],
+            "Pietro Fittipaldi": [
+                {
+                    "driver_priority": "first",
+                    "team": "alpha tauri"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "williams"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "mercedes"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "alpine"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "alfa romeo"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "ferrari"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "mclaren"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "aston martin"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "red bull"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "hass"
+                }
+            ],
+            "Nico Hulkenberg": [
+                {
+                    "driver_priority": "second",
+                    "team": "alpine"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "alpha tauri"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "mercedes"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "williams"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "mclaren"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "alfa romeo"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "ferrari"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "red bull"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "aston martin"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "hass"
+                }
+            ],
+            "Oscar Piastri": [
+                {
+                    "driver_priority": "reserve",
+                    "team": "ferrari"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "williams"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "alpine"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "mercedes"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "mclaren"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "red bull"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "aston martin"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "hass"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "alpha tauri"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "alfa romeo"
+                }
+            ],
+            "Kevin Magnussen": [
+                {
+                    "driver_priority": "second",
+                    "team": "williams"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "aston martin"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "red bull"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "mclaren"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "ferrari"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "alfa romeo"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "alpine"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "mercedes"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "alpha tauri"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "hass"
+                }
+            ],
+            "Mick Schumacher": [
+                {
+                    "driver_priority": "second",
+                    "team": "hass"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "alfa romeo"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "alpine"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "aston martin"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "williams"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "mclaren"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "ferrari"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "red bull"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "mercedes"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "alpha tauri"
+                }
+            ],
+            "Carlos Sainz": [
+                {
+                    "driver_priority": "reserve",
+                    "team": "mclaren"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "aston martin"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "alpine"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "hass"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "alpha tauri"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "alfa romeo"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "red bull"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "mercedes"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "williams"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "ferrari"
+                }
+            ],
+            "George Russel": [
+                {
+                    "driver_priority": "first",
+                    "team": "ferrari"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "red bull"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "williams"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "aston martin"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "hass"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "alpine"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "alfa romeo"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "mercedes"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "alpha tauri"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "mclaren"
+                }
+            ],
+            "Daniel Ricciardo": [
+                {
+                    "driver_priority": "reserve",
+                    "team": "alpha tauri"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "ferrari"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "mclaren"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "alpine"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "hass"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "red bull"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "alfa romeo"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "mercedes"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "williams"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "aston martin"
+                }
+            ],
+            "Valteri Bottas": [
+                {
+                    "driver_priority": "first",
+                    "team": "mclaren"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "williams"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "ferrari"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "aston martin"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "mercedes"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "alpine"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "hass"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "alpha tauri"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "alfa romeo"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "red bull"
+                }
+            ],
+            "Lewis Hamilton": [
+                {
+                    "driver_priority": "reserve",
+                    "team": "ferrari"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "alfa romeo"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "mercedes"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "aston martin"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "alpine"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "williams"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "hass"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "mclaren"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "red bull"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "alpha tauri"
+                }
+            ],
+            "Lando Norris": [
+                {
+                    "driver_priority": "second",
+                    "team": "mclaren"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "hass"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "alpine"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "alpha tauri"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "aston martin"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "mercedes"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "ferrari"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "red bull"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "williams"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "alfa romeo"
+                }
+            ],
+            "Antonio Giovinazzi": [
+                {
+                    "driver_priority": "first",
+                    "team": "alpine"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "alpha tauri"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "hass"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "red bull"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "mercedes"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "williams"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "mclaren"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "aston martin"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "ferrari"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "alfa romeo"
+                }
+            ],
+            "Alex Albon": [
+                {
+                    "driver_priority": "reserve",
+                    "team": "alpine"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "alpha tauri"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "ferrari"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "alfa romeo"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "mclaren"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "aston martin"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "mercedes"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "williams"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "red bull"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "hass"
+                }
+            ],
+            "Paul Di Resta": [
+                {
+                    "driver_priority": "reserve",
+                    "team": "mclaren"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "hass"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "williams"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "ferrari"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "red bull"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "alpha tauri"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "aston martin"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "alfa romeo"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "mercedes"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "alpine"
+                }
+            ],
+            "Lance Stroll": [
+                {
+                    "driver_priority": "first",
+                    "team": "williams"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "ferrari"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "hass"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "alfa romeo"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "alpha tauri"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "red bull"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "mercedes"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "alpine"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "aston martin"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "mclaren"
+                }
+            ],
+            "Esteban Ocon": [
+                {
+                    "driver_priority": "reserve",
+                    "team": "mercedes"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "mclaren"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "alpha tauri"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "aston martin"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "red bull"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "williams"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "alpine"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "ferrari"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "alfa romeo"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "hass"
+                }
+            ],
+            "Nicholas Latifi": [
+                {
+                    "driver_priority": "second",
+                    "team": "alfa romeo"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "williams"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "ferrari"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "alpha tauri"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "mercedes"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "red bull"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "alpine"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "hass"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "mclaren"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "aston martin"
+                }
+            ],
+            "Stoffel Vandoorne": [
+                {
+                    "driver_priority": "first",
+                    "team": "alpine"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "alpha tauri"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "red bull"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "williams"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "aston martin"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "hass"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "alfa romeo"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "mclaren"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "mercedes"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "ferrari"
+                }
+            ],
+            "Nyck de Vries": [
+                {
+                    "driver_priority": "first",
+                    "team": "williams"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "mercedes"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "ferrari"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "hass"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "aston martin"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "alpha tauri"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "alpine"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "red bull"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "alfa romeo"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "mclaren"
+                }
+            ],
+            "Pierre Gasly": [
+                {
+                    "driver_priority": "reserve",
+                    "team": "aston martin"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "alpha tauri"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "williams"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "alfa romeo"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "mercedes"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "hass"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "alpine"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "mclaren"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "ferrari"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "red bull"
+                }
+            ],
+            "Max Verstappen": [
+                {
+                    "driver_priority": "first",
+                    "team": "aston martin"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "ferrari"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "alpine"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "alfa romeo"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "alpha tauri"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "red bull"
+                },
+                {
+                    "driver_priority": "second",
+                    "team": "mclaren"
+                },
+                {
+                    "driver_priority": "first",
+                    "team": "hass"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "mercedes"
+                },
+                {
+                    "driver_priority": "reserve",
+                    "team": "williams"
+                }
+            ]
+        },
+        "teams": {
+            "alpha tauri": {
+                "reserve": [
+                    "Pierre Gasly",
+                    "Lando Norris",
+                    "S\u00e9bastien Buemi",
+                    "Max Verstappen",
+                    "Lewis Hamilton",
+                    "Valteri Bottas",
+                    "Alex Albon",
+                    "Pietro Fittipaldi",
+                    "George Russel",
+                    "Esteban Ocon",
+                    "Mick Schumacher",
+                    "Fernando Alonso",
+                    "Antonio Giovinazzi",
+                    "Yuki Tsunoda",
+                    "Daniel Ricciardo",
+                    "Oscar Piastri",
+                    "Lance Stroll",
+                    "Nicholas Latifi",
+                    "Paul Di Resta",
+                    "Liam Lawson",
+                    "Zhou Guanyu",
+                    "Jack Aitken",
+                    "Sergio Perez",
+                    "Nico Hulkenberg",
+                    "Stoffel Vandoorne",
+                    "Nyck de Vries",
+                    "Kevin Magnussen",
+                    "Charles Leclerc",
+                    "Carlos Sainz",
+                    "Sebastian Vettel",
+                    "Robert Kubica"
+                ],
+                "first": [
+                    "Pierre Gasly",
+                    "Lando Norris",
+                    "S\u00e9bastien Buemi",
+                    "Max Verstappen",
+                    "Lewis Hamilton",
+                    "Valteri Bottas",
+                    "Alex Albon",
+                    "Pietro Fittipaldi",
+                    "George Russel",
+                    "Esteban Ocon",
+                    "Mick Schumacher",
+                    "Fernando Alonso",
+                    "Antonio Giovinazzi",
+                    "Yuki Tsunoda",
+                    "Daniel Ricciardo",
+                    "Oscar Piastri",
+                    "Lance Stroll",
+                    "Nicholas Latifi",
+                    "Paul Di Resta",
+                    "Liam Lawson",
+                    "Zhou Guanyu",
+                    "Jack Aitken",
+                    "Sergio Perez",
+                    "Nico Hulkenberg",
+                    "Stoffel Vandoorne",
+                    "Nyck de Vries",
+                    "Kevin Magnussen",
+                    "Charles Leclerc",
+                    "Carlos Sainz",
+                    "Sebastian Vettel",
+                    "Robert Kubica"
+                ],
+                "second": [
+                    "Pierre Gasly",
+                    "Lando Norris",
+                    "S\u00e9bastien Buemi",
+                    "Max Verstappen",
+                    "Lewis Hamilton",
+                    "Valteri Bottas",
+                    "Alex Albon",
+                    "Pietro Fittipaldi",
+                    "George Russel",
+                    "Esteban Ocon",
+                    "Mick Schumacher",
+                    "Fernando Alonso",
+                    "Antonio Giovinazzi",
+                    "Yuki Tsunoda",
+                    "Daniel Ricciardo",
+                    "Oscar Piastri",
+                    "Lance Stroll",
+                    "Nicholas Latifi",
+                    "Paul Di Resta",
+                    "Liam Lawson",
+                    "Zhou Guanyu",
+                    "Jack Aitken",
+                    "Sergio Perez",
+                    "Nico Hulkenberg",
+                    "Stoffel Vandoorne",
+                    "Nyck de Vries",
+                    "Kevin Magnussen",
+                    "Charles Leclerc",
+                    "Carlos Sainz",
+                    "Sebastian Vettel",
+                    "Robert Kubica"
+                ]
+            },
+            "williams": {
+                "reserve": [
+                    "Pierre Gasly",
+                    "Lando Norris",
+                    "S\u00e9bastien Buemi",
+                    "Max Verstappen",
+                    "Lewis Hamilton",
+                    "Valteri Bottas",
+                    "Alex Albon",
+                    "Pietro Fittipaldi",
+                    "George Russel",
+                    "Esteban Ocon",
+                    "Mick Schumacher",
+                    "Fernando Alonso",
+                    "Antonio Giovinazzi",
+                    "Yuki Tsunoda",
+                    "Daniel Ricciardo",
+                    "Oscar Piastri",
+                    "Lance Stroll",
+                    "Nicholas Latifi",
+                    "Paul Di Resta",
+                    "Liam Lawson",
+                    "Zhou Guanyu",
+                    "Jack Aitken",
+                    "Sergio Perez",
+                    "Nico Hulkenberg",
+                    "Stoffel Vandoorne",
+                    "Nyck de Vries",
+                    "Kevin Magnussen",
+                    "Charles Leclerc",
+                    "Carlos Sainz",
+                    "Sebastian Vettel",
+                    "Robert Kubica"
+                ],
+                "first": [
+                    "Pierre Gasly",
+                    "Lando Norris",
+                    "S\u00e9bastien Buemi",
+                    "Max Verstappen",
+                    "Lewis Hamilton",
+                    "Valteri Bottas",
+                    "Alex Albon",
+                    "Pietro Fittipaldi",
+                    "George Russel",
+                    "Esteban Ocon",
+                    "Mick Schumacher",
+                    "Fernando Alonso",
+                    "Antonio Giovinazzi",
+                    "Yuki Tsunoda",
+                    "Daniel Ricciardo",
+                    "Oscar Piastri",
+                    "Lance Stroll",
+                    "Nicholas Latifi",
+                    "Paul Di Resta",
+                    "Liam Lawson",
+                    "Zhou Guanyu",
+                    "Jack Aitken",
+                    "Sergio Perez",
+                    "Nico Hulkenberg",
+                    "Stoffel Vandoorne",
+                    "Nyck de Vries",
+                    "Kevin Magnussen",
+                    "Charles Leclerc",
+                    "Carlos Sainz",
+                    "Sebastian Vettel",
+                    "Robert Kubica"
+                ],
+                "second": [
+                    "Pierre Gasly",
+                    "Lando Norris",
+                    "S\u00e9bastien Buemi",
+                    "Max Verstappen",
+                    "Lewis Hamilton",
+                    "Valteri Bottas",
+                    "Alex Albon",
+                    "Pietro Fittipaldi",
+                    "George Russel",
+                    "Esteban Ocon",
+                    "Mick Schumacher",
+                    "Fernando Alonso",
+                    "Antonio Giovinazzi",
+                    "Yuki Tsunoda",
+                    "Daniel Ricciardo",
+                    "Oscar Piastri",
+                    "Lance Stroll",
+                    "Nicholas Latifi",
+                    "Paul Di Resta",
+                    "Liam Lawson",
+                    "Zhou Guanyu",
+                    "Jack Aitken",
+                    "Sergio Perez",
+                    "Nico Hulkenberg",
+                    "Stoffel Vandoorne",
+                    "Nyck de Vries",
+                    "Kevin Magnussen",
+                    "Charles Leclerc",
+                    "Carlos Sainz",
+                    "Sebastian Vettel",
+                    "Robert Kubica"
+                ]
+            },
+            "mercedes": {
+                "reserve": [
+                    "Pierre Gasly",
+                    "Lando Norris",
+                    "S\u00e9bastien Buemi",
+                    "Max Verstappen",
+                    "Lewis Hamilton",
+                    "Valteri Bottas",
+                    "Alex Albon",
+                    "Pietro Fittipaldi",
+                    "George Russel",
+                    "Esteban Ocon",
+                    "Mick Schumacher",
+                    "Fernando Alonso",
+                    "Antonio Giovinazzi",
+                    "Yuki Tsunoda",
+                    "Daniel Ricciardo",
+                    "Oscar Piastri",
+                    "Lance Stroll",
+                    "Nicholas Latifi",
+                    "Paul Di Resta",
+                    "Liam Lawson",
+                    "Zhou Guanyu",
+                    "Jack Aitken",
+                    "Sergio Perez",
+                    "Nico Hulkenberg",
+                    "Stoffel Vandoorne",
+                    "Nyck de Vries",
+                    "Kevin Magnussen",
+                    "Charles Leclerc",
+                    "Carlos Sainz",
+                    "Sebastian Vettel",
+                    "Robert Kubica"
+                ],
+                "first": [
+                    "Pierre Gasly",
+                    "Lando Norris",
+                    "S\u00e9bastien Buemi",
+                    "Max Verstappen",
+                    "Lewis Hamilton",
+                    "Valteri Bottas",
+                    "Alex Albon",
+                    "Pietro Fittipaldi",
+                    "George Russel",
+                    "Esteban Ocon",
+                    "Mick Schumacher",
+                    "Fernando Alonso",
+                    "Antonio Giovinazzi",
+                    "Yuki Tsunoda",
+                    "Daniel Ricciardo",
+                    "Oscar Piastri",
+                    "Lance Stroll",
+                    "Nicholas Latifi",
+                    "Paul Di Resta",
+                    "Liam Lawson",
+                    "Zhou Guanyu",
+                    "Jack Aitken",
+                    "Sergio Perez",
+                    "Nico Hulkenberg",
+                    "Stoffel Vandoorne",
+                    "Nyck de Vries",
+                    "Kevin Magnussen",
+                    "Charles Leclerc",
+                    "Carlos Sainz",
+                    "Sebastian Vettel",
+                    "Robert Kubica"
+                ],
+                "second": [
+                    "Pierre Gasly",
+                    "Lando Norris",
+                    "S\u00e9bastien Buemi",
+                    "Max Verstappen",
+                    "Lewis Hamilton",
+                    "Valteri Bottas",
+                    "Alex Albon",
+                    "Pietro Fittipaldi",
+                    "George Russel",
+                    "Esteban Ocon",
+                    "Mick Schumacher",
+                    "Fernando Alonso",
+                    "Antonio Giovinazzi",
+                    "Yuki Tsunoda",
+                    "Daniel Ricciardo",
+                    "Oscar Piastri",
+                    "Lance Stroll",
+                    "Nicholas Latifi",
+                    "Paul Di Resta",
+                    "Liam Lawson",
+                    "Zhou Guanyu",
+                    "Jack Aitken",
+                    "Sergio Perez",
+                    "Nico Hulkenberg",
+                    "Stoffel Vandoorne",
+                    "Nyck de Vries",
+                    "Kevin Magnussen",
+                    "Charles Leclerc",
+                    "Carlos Sainz",
+                    "Sebastian Vettel",
+                    "Robert Kubica"
+                ]
+            },
+            "alpine": {
+                "reserve": [
+                    "Pierre Gasly",
+                    "Lando Norris",
+                    "S\u00e9bastien Buemi",
+                    "Max Verstappen",
+                    "Lewis Hamilton",
+                    "Valteri Bottas",
+                    "Alex Albon",
+                    "Pietro Fittipaldi",
+                    "George Russel",
+                    "Esteban Ocon",
+                    "Mick Schumacher",
+                    "Fernando Alonso",
+                    "Antonio Giovinazzi",
+                    "Yuki Tsunoda",
+                    "Daniel Ricciardo",
+                    "Oscar Piastri",
+                    "Lance Stroll",
+                    "Nicholas Latifi",
+                    "Paul Di Resta",
+                    "Liam Lawson",
+                    "Zhou Guanyu",
+                    "Jack Aitken",
+                    "Sergio Perez",
+                    "Nico Hulkenberg",
+                    "Stoffel Vandoorne",
+                    "Nyck de Vries",
+                    "Kevin Magnussen",
+                    "Charles Leclerc",
+                    "Carlos Sainz",
+                    "Sebastian Vettel",
+                    "Robert Kubica"
+                ],
+                "first": [
+                    "Pierre Gasly",
+                    "Lando Norris",
+                    "S\u00e9bastien Buemi",
+                    "Max Verstappen",
+                    "Lewis Hamilton",
+                    "Valteri Bottas",
+                    "Alex Albon",
+                    "Pietro Fittipaldi",
+                    "George Russel",
+                    "Esteban Ocon",
+                    "Mick Schumacher",
+                    "Fernando Alonso",
+                    "Antonio Giovinazzi",
+                    "Yuki Tsunoda",
+                    "Daniel Ricciardo",
+                    "Oscar Piastri",
+                    "Lance Stroll",
+                    "Nicholas Latifi",
+                    "Paul Di Resta",
+                    "Liam Lawson",
+                    "Zhou Guanyu",
+                    "Jack Aitken",
+                    "Sergio Perez",
+                    "Nico Hulkenberg",
+                    "Stoffel Vandoorne",
+                    "Nyck de Vries",
+                    "Kevin Magnussen",
+                    "Charles Leclerc",
+                    "Carlos Sainz",
+                    "Sebastian Vettel",
+                    "Robert Kubica"
+                ],
+                "second": [
+                    "Pierre Gasly",
+                    "Lando Norris",
+                    "S\u00e9bastien Buemi",
+                    "Max Verstappen",
+                    "Lewis Hamilton",
+                    "Valteri Bottas",
+                    "Alex Albon",
+                    "Pietro Fittipaldi",
+                    "George Russel",
+                    "Esteban Ocon",
+                    "Mick Schumacher",
+                    "Fernando Alonso",
+                    "Antonio Giovinazzi",
+                    "Yuki Tsunoda",
+                    "Daniel Ricciardo",
+                    "Oscar Piastri",
+                    "Lance Stroll",
+                    "Nicholas Latifi",
+                    "Paul Di Resta",
+                    "Liam Lawson",
+                    "Zhou Guanyu",
+                    "Jack Aitken",
+                    "Sergio Perez",
+                    "Nico Hulkenberg",
+                    "Stoffel Vandoorne",
+                    "Nyck de Vries",
+                    "Kevin Magnussen",
+                    "Charles Leclerc",
+                    "Carlos Sainz",
+                    "Sebastian Vettel",
+                    "Robert Kubica"
+                ]
+            },
+            "alfa romeo": {
+                "reserve": [
+                    "Pierre Gasly",
+                    "Lando Norris",
+                    "S\u00e9bastien Buemi",
+                    "Max Verstappen",
+                    "Lewis Hamilton",
+                    "Valteri Bottas",
+                    "Alex Albon",
+                    "Pietro Fittipaldi",
+                    "George Russel",
+                    "Esteban Ocon",
+                    "Mick Schumacher",
+                    "Fernando Alonso",
+                    "Antonio Giovinazzi",
+                    "Yuki Tsunoda",
+                    "Daniel Ricciardo",
+                    "Oscar Piastri",
+                    "Lance Stroll",
+                    "Nicholas Latifi",
+                    "Paul Di Resta",
+                    "Liam Lawson",
+                    "Zhou Guanyu",
+                    "Jack Aitken",
+                    "Sergio Perez",
+                    "Nico Hulkenberg",
+                    "Stoffel Vandoorne",
+                    "Nyck de Vries",
+                    "Kevin Magnussen",
+                    "Charles Leclerc",
+                    "Carlos Sainz",
+                    "Sebastian Vettel",
+                    "Robert Kubica"
+                ],
+                "first": [
+                    "Pierre Gasly",
+                    "Lando Norris",
+                    "S\u00e9bastien Buemi",
+                    "Max Verstappen",
+                    "Lewis Hamilton",
+                    "Valteri Bottas",
+                    "Alex Albon",
+                    "Pietro Fittipaldi",
+                    "George Russel",
+                    "Esteban Ocon",
+                    "Mick Schumacher",
+                    "Fernando Alonso",
+                    "Antonio Giovinazzi",
+                    "Yuki Tsunoda",
+                    "Daniel Ricciardo",
+                    "Oscar Piastri",
+                    "Lance Stroll",
+                    "Nicholas Latifi",
+                    "Paul Di Resta",
+                    "Liam Lawson",
+                    "Zhou Guanyu",
+                    "Jack Aitken",
+                    "Sergio Perez",
+                    "Nico Hulkenberg",
+                    "Stoffel Vandoorne",
+                    "Nyck de Vries",
+                    "Kevin Magnussen",
+                    "Charles Leclerc",
+                    "Carlos Sainz",
+                    "Sebastian Vettel",
+                    "Robert Kubica"
+                ],
+                "second": [
+                    "Pierre Gasly",
+                    "Lando Norris",
+                    "S\u00e9bastien Buemi",
+                    "Max Verstappen",
+                    "Lewis Hamilton",
+                    "Valteri Bottas",
+                    "Alex Albon",
+                    "Pietro Fittipaldi",
+                    "George Russel",
+                    "Esteban Ocon",
+                    "Mick Schumacher",
+                    "Fernando Alonso",
+                    "Antonio Giovinazzi",
+                    "Yuki Tsunoda",
+                    "Daniel Ricciardo",
+                    "Oscar Piastri",
+                    "Lance Stroll",
+                    "Nicholas Latifi",
+                    "Paul Di Resta",
+                    "Liam Lawson",
+                    "Zhou Guanyu",
+                    "Jack Aitken",
+                    "Sergio Perez",
+                    "Nico Hulkenberg",
+                    "Stoffel Vandoorne",
+                    "Nyck de Vries",
+                    "Kevin Magnussen",
+                    "Charles Leclerc",
+                    "Carlos Sainz",
+                    "Sebastian Vettel",
+                    "Robert Kubica"
+                ]
+            },
+            "ferrari": {
+                "reserve": [
+                    "Pierre Gasly",
+                    "Lando Norris",
+                    "S\u00e9bastien Buemi",
+                    "Max Verstappen",
+                    "Lewis Hamilton",
+                    "Valteri Bottas",
+                    "Alex Albon",
+                    "Pietro Fittipaldi",
+                    "George Russel",
+                    "Esteban Ocon",
+                    "Mick Schumacher",
+                    "Fernando Alonso",
+                    "Antonio Giovinazzi",
+                    "Yuki Tsunoda",
+                    "Daniel Ricciardo",
+                    "Oscar Piastri",
+                    "Lance Stroll",
+                    "Nicholas Latifi",
+                    "Paul Di Resta",
+                    "Liam Lawson",
+                    "Zhou Guanyu",
+                    "Jack Aitken",
+                    "Sergio Perez",
+                    "Nico Hulkenberg",
+                    "Stoffel Vandoorne",
+                    "Nyck de Vries",
+                    "Kevin Magnussen",
+                    "Charles Leclerc",
+                    "Carlos Sainz",
+                    "Sebastian Vettel",
+                    "Robert Kubica"
+                ],
+                "first": [
+                    "Pierre Gasly",
+                    "Lando Norris",
+                    "S\u00e9bastien Buemi",
+                    "Max Verstappen",
+                    "Lewis Hamilton",
+                    "Valteri Bottas",
+                    "Alex Albon",
+                    "Pietro Fittipaldi",
+                    "George Russel",
+                    "Esteban Ocon",
+                    "Mick Schumacher",
+                    "Fernando Alonso",
+                    "Antonio Giovinazzi",
+                    "Yuki Tsunoda",
+                    "Daniel Ricciardo",
+                    "Oscar Piastri",
+                    "Lance Stroll",
+                    "Nicholas Latifi",
+                    "Paul Di Resta",
+                    "Liam Lawson",
+                    "Zhou Guanyu",
+                    "Jack Aitken",
+                    "Sergio Perez",
+                    "Nico Hulkenberg",
+                    "Stoffel Vandoorne",
+                    "Nyck de Vries",
+                    "Kevin Magnussen",
+                    "Charles Leclerc",
+                    "Carlos Sainz",
+                    "Sebastian Vettel",
+                    "Robert Kubica"
+                ],
+                "second": [
+                    "Pierre Gasly",
+                    "Lando Norris",
+                    "S\u00e9bastien Buemi",
+                    "Max Verstappen",
+                    "Lewis Hamilton",
+                    "Valteri Bottas",
+                    "Alex Albon",
+                    "Pietro Fittipaldi",
+                    "George Russel",
+                    "Esteban Ocon",
+                    "Mick Schumacher",
+                    "Fernando Alonso",
+                    "Antonio Giovinazzi",
+                    "Yuki Tsunoda",
+                    "Daniel Ricciardo",
+                    "Oscar Piastri",
+                    "Lance Stroll",
+                    "Nicholas Latifi",
+                    "Paul Di Resta",
+                    "Liam Lawson",
+                    "Zhou Guanyu",
+                    "Jack Aitken",
+                    "Sergio Perez",
+                    "Nico Hulkenberg",
+                    "Stoffel Vandoorne",
+                    "Nyck de Vries",
+                    "Kevin Magnussen",
+                    "Charles Leclerc",
+                    "Carlos Sainz",
+                    "Sebastian Vettel",
+                    "Robert Kubica"
+                ]
+            },
+            "mclaren": {
+                "reserve": [
+                    "Pierre Gasly",
+                    "Lando Norris",
+                    "S\u00e9bastien Buemi",
+                    "Max Verstappen",
+                    "Lewis Hamilton",
+                    "Valteri Bottas",
+                    "Alex Albon",
+                    "Pietro Fittipaldi",
+                    "George Russel",
+                    "Esteban Ocon",
+                    "Mick Schumacher",
+                    "Fernando Alonso",
+                    "Antonio Giovinazzi",
+                    "Yuki Tsunoda",
+                    "Daniel Ricciardo",
+                    "Oscar Piastri",
+                    "Lance Stroll",
+                    "Nicholas Latifi",
+                    "Paul Di Resta",
+                    "Liam Lawson",
+                    "Zhou Guanyu",
+                    "Jack Aitken",
+                    "Sergio Perez",
+                    "Nico Hulkenberg",
+                    "Stoffel Vandoorne",
+                    "Nyck de Vries",
+                    "Kevin Magnussen",
+                    "Charles Leclerc",
+                    "Carlos Sainz",
+                    "Sebastian Vettel",
+                    "Robert Kubica"
+                ],
+                "first": [
+                    "Pierre Gasly",
+                    "Lando Norris",
+                    "S\u00e9bastien Buemi",
+                    "Max Verstappen",
+                    "Lewis Hamilton",
+                    "Valteri Bottas",
+                    "Alex Albon",
+                    "Pietro Fittipaldi",
+                    "George Russel",
+                    "Esteban Ocon",
+                    "Mick Schumacher",
+                    "Fernando Alonso",
+                    "Antonio Giovinazzi",
+                    "Yuki Tsunoda",
+                    "Daniel Ricciardo",
+                    "Oscar Piastri",
+                    "Lance Stroll",
+                    "Nicholas Latifi",
+                    "Paul Di Resta",
+                    "Liam Lawson",
+                    "Zhou Guanyu",
+                    "Jack Aitken",
+                    "Sergio Perez",
+                    "Nico Hulkenberg",
+                    "Stoffel Vandoorne",
+                    "Nyck de Vries",
+                    "Kevin Magnussen",
+                    "Charles Leclerc",
+                    "Carlos Sainz",
+                    "Sebastian Vettel",
+                    "Robert Kubica"
+                ],
+                "second": [
+                    "Pierre Gasly",
+                    "Lando Norris",
+                    "S\u00e9bastien Buemi",
+                    "Max Verstappen",
+                    "Lewis Hamilton",
+                    "Valteri Bottas",
+                    "Alex Albon",
+                    "Pietro Fittipaldi",
+                    "George Russel",
+                    "Esteban Ocon",
+                    "Mick Schumacher",
+                    "Fernando Alonso",
+                    "Antonio Giovinazzi",
+                    "Yuki Tsunoda",
+                    "Daniel Ricciardo",
+                    "Oscar Piastri",
+                    "Lance Stroll",
+                    "Nicholas Latifi",
+                    "Paul Di Resta",
+                    "Liam Lawson",
+                    "Zhou Guanyu",
+                    "Jack Aitken",
+                    "Sergio Perez",
+                    "Nico Hulkenberg",
+                    "Stoffel Vandoorne",
+                    "Nyck de Vries",
+                    "Kevin Magnussen",
+                    "Charles Leclerc",
+                    "Carlos Sainz",
+                    "Sebastian Vettel",
+                    "Robert Kubica"
+                ]
+            },
+            "aston martin": {
+                "reserve": [
+                    "Pierre Gasly",
+                    "Lando Norris",
+                    "S\u00e9bastien Buemi",
+                    "Max Verstappen",
+                    "Lewis Hamilton",
+                    "Valteri Bottas",
+                    "Alex Albon",
+                    "Pietro Fittipaldi",
+                    "George Russel",
+                    "Esteban Ocon",
+                    "Mick Schumacher",
+                    "Fernando Alonso",
+                    "Antonio Giovinazzi",
+                    "Yuki Tsunoda",
+                    "Daniel Ricciardo",
+                    "Oscar Piastri",
+                    "Lance Stroll",
+                    "Nicholas Latifi",
+                    "Paul Di Resta",
+                    "Liam Lawson",
+                    "Zhou Guanyu",
+                    "Jack Aitken",
+                    "Sergio Perez",
+                    "Nico Hulkenberg",
+                    "Stoffel Vandoorne",
+                    "Nyck de Vries",
+                    "Kevin Magnussen",
+                    "Charles Leclerc",
+                    "Carlos Sainz",
+                    "Sebastian Vettel",
+                    "Robert Kubica"
+                ],
+                "first": [
+                    "Pierre Gasly",
+                    "Lando Norris",
+                    "S\u00e9bastien Buemi",
+                    "Max Verstappen",
+                    "Lewis Hamilton",
+                    "Valteri Bottas",
+                    "Alex Albon",
+                    "Pietro Fittipaldi",
+                    "George Russel",
+                    "Esteban Ocon",
+                    "Mick Schumacher",
+                    "Fernando Alonso",
+                    "Antonio Giovinazzi",
+                    "Yuki Tsunoda",
+                    "Daniel Ricciardo",
+                    "Oscar Piastri",
+                    "Lance Stroll",
+                    "Nicholas Latifi",
+                    "Paul Di Resta",
+                    "Liam Lawson",
+                    "Zhou Guanyu",
+                    "Jack Aitken",
+                    "Sergio Perez",
+                    "Nico Hulkenberg",
+                    "Stoffel Vandoorne",
+                    "Nyck de Vries",
+                    "Kevin Magnussen",
+                    "Charles Leclerc",
+                    "Carlos Sainz",
+                    "Sebastian Vettel",
+                    "Robert Kubica"
+                ],
+                "second": [
+                    "Pierre Gasly",
+                    "Lando Norris",
+                    "S\u00e9bastien Buemi",
+                    "Max Verstappen",
+                    "Lewis Hamilton",
+                    "Valteri Bottas",
+                    "Alex Albon",
+                    "Pietro Fittipaldi",
+                    "George Russel",
+                    "Esteban Ocon",
+                    "Mick Schumacher",
+                    "Fernando Alonso",
+                    "Antonio Giovinazzi",
+                    "Yuki Tsunoda",
+                    "Daniel Ricciardo",
+                    "Oscar Piastri",
+                    "Lance Stroll",
+                    "Nicholas Latifi",
+                    "Paul Di Resta",
+                    "Liam Lawson",
+                    "Zhou Guanyu",
+                    "Jack Aitken",
+                    "Sergio Perez",
+                    "Nico Hulkenberg",
+                    "Stoffel Vandoorne",
+                    "Nyck de Vries",
+                    "Kevin Magnussen",
+                    "Charles Leclerc",
+                    "Carlos Sainz",
+                    "Sebastian Vettel",
+                    "Robert Kubica"
+                ]
+            },
+            "red bull": {
+                "reserve": [
+                    "Pierre Gasly",
+                    "Lando Norris",
+                    "S\u00e9bastien Buemi",
+                    "Max Verstappen",
+                    "Lewis Hamilton",
+                    "Valteri Bottas",
+                    "Alex Albon",
+                    "Pietro Fittipaldi",
+                    "George Russel",
+                    "Esteban Ocon",
+                    "Mick Schumacher",
+                    "Fernando Alonso",
+                    "Antonio Giovinazzi",
+                    "Yuki Tsunoda",
+                    "Daniel Ricciardo",
+                    "Oscar Piastri",
+                    "Lance Stroll",
+                    "Nicholas Latifi",
+                    "Paul Di Resta",
+                    "Liam Lawson",
+                    "Zhou Guanyu",
+                    "Jack Aitken",
+                    "Sergio Perez",
+                    "Nico Hulkenberg",
+                    "Stoffel Vandoorne",
+                    "Nyck de Vries",
+                    "Kevin Magnussen",
+                    "Charles Leclerc",
+                    "Carlos Sainz",
+                    "Sebastian Vettel",
+                    "Robert Kubica"
+                ],
+                "first": [
+                    "Pierre Gasly",
+                    "Lando Norris",
+                    "S\u00e9bastien Buemi",
+                    "Max Verstappen",
+                    "Lewis Hamilton",
+                    "Valteri Bottas",
+                    "Alex Albon",
+                    "Pietro Fittipaldi",
+                    "George Russel",
+                    "Esteban Ocon",
+                    "Mick Schumacher",
+                    "Fernando Alonso",
+                    "Antonio Giovinazzi",
+                    "Yuki Tsunoda",
+                    "Daniel Ricciardo",
+                    "Oscar Piastri",
+                    "Lance Stroll",
+                    "Nicholas Latifi",
+                    "Paul Di Resta",
+                    "Liam Lawson",
+                    "Zhou Guanyu",
+                    "Jack Aitken",
+                    "Sergio Perez",
+                    "Nico Hulkenberg",
+                    "Stoffel Vandoorne",
+                    "Nyck de Vries",
+                    "Kevin Magnussen",
+                    "Charles Leclerc",
+                    "Carlos Sainz",
+                    "Sebastian Vettel",
+                    "Robert Kubica"
+                ],
+                "second": [
+                    "Pierre Gasly",
+                    "Lando Norris",
+                    "S\u00e9bastien Buemi",
+                    "Max Verstappen",
+                    "Lewis Hamilton",
+                    "Valteri Bottas",
+                    "Alex Albon",
+                    "Pietro Fittipaldi",
+                    "George Russel",
+                    "Esteban Ocon",
+                    "Mick Schumacher",
+                    "Fernando Alonso",
+                    "Antonio Giovinazzi",
+                    "Yuki Tsunoda",
+                    "Daniel Ricciardo",
+                    "Oscar Piastri",
+                    "Lance Stroll",
+                    "Nicholas Latifi",
+                    "Paul Di Resta",
+                    "Liam Lawson",
+                    "Zhou Guanyu",
+                    "Jack Aitken",
+                    "Sergio Perez",
+                    "Nico Hulkenberg",
+                    "Stoffel Vandoorne",
+                    "Nyck de Vries",
+                    "Kevin Magnussen",
+                    "Charles Leclerc",
+                    "Carlos Sainz",
+                    "Sebastian Vettel",
+                    "Robert Kubica"
+                ]
+            },
+            "hass": {
+                "reserve": [
+                    "Pierre Gasly",
+                    "Lando Norris",
+                    "S\u00e9bastien Buemi",
+                    "Max Verstappen",
+                    "Lewis Hamilton",
+                    "Valteri Bottas",
+                    "Alex Albon",
+                    "Pietro Fittipaldi",
+                    "George Russel",
+                    "Esteban Ocon",
+                    "Mick Schumacher",
+                    "Fernando Alonso",
+                    "Antonio Giovinazzi",
+                    "Yuki Tsunoda",
+                    "Daniel Ricciardo",
+                    "Oscar Piastri",
+                    "Lance Stroll",
+                    "Nicholas Latifi",
+                    "Paul Di Resta",
+                    "Liam Lawson",
+                    "Zhou Guanyu",
+                    "Jack Aitken",
+                    "Sergio Perez",
+                    "Nico Hulkenberg",
+                    "Stoffel Vandoorne",
+                    "Nyck de Vries",
+                    "Kevin Magnussen",
+                    "Charles Leclerc",
+                    "Carlos Sainz",
+                    "Sebastian Vettel",
+                    "Robert Kubica"
+                ],
+                "first": [
+                    "Pierre Gasly",
+                    "Lando Norris",
+                    "S\u00e9bastien Buemi",
+                    "Max Verstappen",
+                    "Lewis Hamilton",
+                    "Valteri Bottas",
+                    "Alex Albon",
+                    "Pietro Fittipaldi",
+                    "George Russel",
+                    "Esteban Ocon",
+                    "Mick Schumacher",
+                    "Fernando Alonso",
+                    "Antonio Giovinazzi",
+                    "Yuki Tsunoda",
+                    "Daniel Ricciardo",
+                    "Oscar Piastri",
+                    "Lance Stroll",
+                    "Nicholas Latifi",
+                    "Paul Di Resta",
+                    "Liam Lawson",
+                    "Zhou Guanyu",
+                    "Jack Aitken",
+                    "Sergio Perez",
+                    "Nico Hulkenberg",
+                    "Stoffel Vandoorne",
+                    "Nyck de Vries",
+                    "Kevin Magnussen",
+                    "Charles Leclerc",
+                    "Carlos Sainz",
+                    "Sebastian Vettel",
+                    "Robert Kubica"
+                ],
+                "second": [
+                    "Pierre Gasly",
+                    "Lando Norris",
+                    "S\u00e9bastien Buemi",
+                    "Max Verstappen",
+                    "Lewis Hamilton",
+                    "Valteri Bottas",
+                    "Alex Albon",
+                    "Pietro Fittipaldi",
+                    "George Russel",
+                    "Esteban Ocon",
+                    "Mick Schumacher",
+                    "Fernando Alonso",
+                    "Antonio Giovinazzi",
+                    "Yuki Tsunoda",
+                    "Daniel Ricciardo",
+                    "Oscar Piastri",
+                    "Lance Stroll",
+                    "Nicholas Latifi",
+                    "Paul Di Resta",
+                    "Liam Lawson",
+                    "Zhou Guanyu",
+                    "Jack Aitken",
+                    "Sergio Perez",
+                    "Nico Hulkenberg",
+                    "Stoffel Vandoorne",
+                    "Nyck de Vries",
+                    "Kevin Magnussen",
+                    "Charles Leclerc",
+                    "Carlos Sainz",
+                    "Sebastian Vettel",
+                    "Robert Kubica"
+                ]
+            }
+        }
+    }
+}
